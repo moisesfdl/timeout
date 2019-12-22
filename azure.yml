@@ -68,7 +68,52 @@ gerando um arquivo de tempo de tabalho em log ou workspace
           </dir>
     </body>
     </html>
+    ------------------------------------------------------------------------------------------
     
 
+<!--<doctype class timeout>-->
+<!--<!doctype class html>-->
+<html lang="en">
+<title aria-details="timeout.log">timeout</title>
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title name=CarteiraDeTrabalho aria-valuetext="log">Document</title>
+    <meta aria-details="text.log" aria-colindex="log.log" inputmode="text" aria-modal="true">
+
+    <head body="script"></head>
+</head>
+
+<body>
+
+    <div>
+        <area title="doctype" @RGMoisesFerreiraDeLima aria-checked="@RGMoisesFerreiraDeLima" aria-details="doctype" Registro></area>
+        <a href="tel:(+5512)99649-7466" aria-details="titular" moises_ferreira_de_lima aria-controls="tel" 99649-7466></a>
+        <img src="timeout.css" alt="">
+    </div>
+    <script applet="timeout.log">
+        < applet console.log(timeout) status = "function".if index = "log" / > < /applet>
+    </script>
+    <div>
+        <acronym title="timeout" inputmode="Desktop" aria-readonly="timeout.log" text></acronym>
+    </div>
+    <script class="if">
+        {
+            if (index.log | menssagBOX.class: index.log,
+                array.length, index.log),
+            const.element = array[index.log];
+        }
+        var {
+            varlog = require.(
+                return .log);
+            tabindex = applet.timeout;
+        }
+    </script>
+
+</body>
+
+</html>
     
     
