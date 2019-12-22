@@ -1,0 +1,74 @@
+gerando um arquivo de tempo de tabalho em log ou workspace 
+<!--<!doctype class timeout>-->
+{
+    class text: log:{
+       "log"= applet timeout=pc.moisesfdl }
+    {
+       public logIterator log
+       {
+           get
+           {
+               return new logIterator(this);
+           }
+       }
+       
+       public class logIterator
+       {
+           readonly timeout outer;
+           
+           internal logIterator(timeout outer)
+           {
+               this.outer = outer;
+           }
+           
+           // TODO: provide an appropriate implementation here
+           public int Length { get { return 1; } }
+           
+           public ElementType this[int index]
+           {
+               get
+               {
+                  
+                   throw new System.NotImplementedException();
+                   return default(ElementType);
+               }
+           }
+           
+           public System.Collections.Generic.IEnumerator<ElementType> GetEnumerator()
+           {
+               for (int i = 0; i < this.Length; i++)
+               {
+                   yield return this[i];
+               }
+           }
+       }
+    }
+     return.log=[timeout]
+}
+--------------------------------------------------------
+<!--<!doctype class timeout>-->
+<!--<doctype class xml>-->
+    <html lang="en">
+    <title area="timeout.log">timeout</title>
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+        <title name="CarteiraDeTrabalho" >Document</title>
+        
+    </head>
+    <body>
+    <!--@RGMoisesFerreiraDeLima-->
+        <script applet="timeout.log">
+        <applet area="timeout"pc.moisesfdl>
+          </applet></script>
+          <dir doctype=log href=cp.moisesfdl menssagBox.log>
+          <area shape="applet" coords="timeout" href="log" alt="cp.moisesfdl"/>
+          <article timeout=temp scale=log.Document log=doctype></article>
+          </dir>
+    </body>
+    </html>
+    
+
+    
+    
